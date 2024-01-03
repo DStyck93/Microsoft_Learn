@@ -52,13 +52,10 @@ foreach (string name in studentNames)
 
     if (currentStudent == "Sophia")
         studentScores = sophiaScores;
-
     else if (currentStudent == "Andrew")
         studentScores = andrewScores;
-
     else if (currentStudent == "Emma")
         studentScores = emmaScores;
-
     else if (currentStudent == "Logan")
         studentScores = loganScores;
     
